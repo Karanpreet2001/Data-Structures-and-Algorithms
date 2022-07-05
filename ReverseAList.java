@@ -6,6 +6,10 @@ public class ReverseAList extends ListNode{
         
     }
 
+    /**
+     * @param head
+     * @return
+     */
     ListNode reverse(ListNode head){
 
 
